@@ -1,0 +1,17 @@
+ZADANIE: Studenci i ich oceny
+
+Napisz program, który bêdzie symulowa³ klasê studentów z ich ocenami. Program powinien wczytaæ piêciu studentów o nastêpuj¹cych w³aœciwoœciach:
+
+imiê studenta
+ocena z ZIOP, SO, Grafika oraz MySql
+a nastêpnie odpowiada³ na pytania o ocenê z danego przedmiotu podaj¹c najpierw numer studenta a nastêpnie numer przedmiotu.
+
+
+UWAGA !
+Ca³¹ pracê zespo³u (2-3 programistów):
+- program
+- potrzebne pliki
+- commity
+- 2 branches
+
+udokumentuj wysy³aj¹c link do konta na GitHubie
